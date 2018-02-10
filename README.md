@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to SET (Space Experiment Theory) Pages
 
 You can use the [editor on GitHub](https://github.com/junwoolim/SET/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
