@@ -1,11 +1,11 @@
 ## Welcome to SET (Space Experiment Theory) Pages
+          You can learn all about space and learn new things      
 
-You can use the [editor on GitHub](https://github.com/junwoolim/SET/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
+## News
+## History
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
